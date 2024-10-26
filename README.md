@@ -1,6 +1,4 @@
-# alura_javaAtividades
-
-Alura - Atividades Práticas propostas - JAVA
+# Alura - Atividades Práticas propostas - JAVA
 
 Repositório com as atividade práticas propostas pelos cursos de Java da Alura
 
